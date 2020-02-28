@@ -1,7 +1,9 @@
 # site-ieee-cs-unb
 
-Apresentação do capítulo
-    - resumo do capítulo
-Resumo de projetos
-Eventos e cursos
-Organização institucional
+<p>
+Apresentação do capítulo <br />
+    - resumo do capítulo<br />
+Resumo de projetos<br />
+Eventos e cursos<br />
+Organização institucional<br />
+</p>
