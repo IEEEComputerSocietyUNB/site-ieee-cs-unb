@@ -6,6 +6,8 @@ O IEEE Comuputer Society UnB é o capítulo do Ramo Estudantil IEEE UnB voltado 
 teste
 
 ## Resumo de Projetos
+Rabot:
+CodingDojo:
 ## Eventos e Concursos
 ## Organização Institucional
 ## Outros
