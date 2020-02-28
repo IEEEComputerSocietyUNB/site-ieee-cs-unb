@@ -1,4 +1,4 @@
-# site-ieee-cs-unb
+# Site IEEE Computer Society UnB
 
 ## Apresentação do Capítulo
 ### Resumo do capítulo
