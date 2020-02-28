@@ -6,8 +6,8 @@ O IEEE Comuputer Society UnB é o capítulo do Ramo Estudantil IEEE UnB voltado 
 teste
 
 ## Resumo de Projetos
-
-tste
+RaBot: Desenvolver um chatbot (isto é, um programa interativo que produz diálogos automáticos), tendo em vista a garantia e a manutenção da saúde mental da comunidade universitária, junto a uma extensa rede de apoio.
+Coding Dojo: Coding Dojo: Reuniões com objetivo de incentivar a troca de conhecimento de programação de maneira divertida e cooperativa.
 ## Eventos e Concursos
 ## Organização Institucional
 ## Outros
