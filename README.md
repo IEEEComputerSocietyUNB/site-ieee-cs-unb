@@ -8,7 +8,7 @@ teste
 ## Resumo de Projetos
 RaBot: Desenvolver um chatbot (isto é, um programa interativo que produz diálogos automáticos), tendo em vista a garantia e a manutenção da saúde mental da comunidade universitária, junto a uma extensa rede de apoio.
 Coding Dojo: Coding Dojo: Reuniões com objetivo de incentivar a troca de conhecimento de programação de maneira divertida e cooperativa.
-## Eventos e Concursos
+## Eventos e Cursos
 ## Organização Institucional
 ## Outros
 ### Forms para aplicação
