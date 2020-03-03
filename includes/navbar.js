@@ -28,11 +28,11 @@ document.write(`
 <li class="menu-has-children"><a href="">O que fazemos</a>
 <ul>
 <li><a href="events.html">Eventos</a></li>
-<li><a href="courses.html">Cursos</a></li>
+<!-- <li><a href="courses.html">Cursos</a></li> -->
 <li class="menu-has-children"><a href="">Projetos</a>
 <ul>
-<li><a href="#">Rabot</a></li>
-<li><a href="#">Coding Dojo</a></li>
+<li><a href="rabot.html">Rabot</a></li>
+<li><a href="coding-dojo.html">Coding Dojo</a></li>
 </ul>
 </li>
 </ul>
