@@ -39,3 +39,22 @@ Feito
 Forms Enviado
 ## Faça parte da Computer Society
 Quer fazer parte de projetos em computação e se desenvolver profissionalmente enquanto dá um retorno de seu trabalho a sociedade? Junte-se a nós!
+
+## Pagina Sobre
+
+### Quais são os benefícios de fazer parte da CS?
+Sendo integrande do capítulo, você terá a experiência de participar de vários projetos
+relacinados a área da computação. Além disso, você estará em um ótimo ambiente para conhecer novas pessoas e fazer networking.
+
+### Como funciona o processo seletivo?
+Atualmente nosso PS consiste em uma entrevista feita
+com membros voluntários ativos do capítulo.
+
+### Preciso ser estudante da UnB?
+É altamente recomendado. Porém todos os interessados nos nossos projetos e atividades
+podem participar
+
+### Quando o PS será aberto?
+Assim que o nosso processo seletivo é aberto faremos a divulgação através dos canais
+de comunicação da UnB e do IEEE. Preencha nosso formulário caso queira receber a data
+do nosso PS com antecedência.
