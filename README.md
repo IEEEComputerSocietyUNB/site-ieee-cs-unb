@@ -15,7 +15,6 @@ O IEEE Comuputer Society UnB é o capítulo do Ramo Estudantil IEEE UnB voltado 
 RaBot: Desenvolver um chatbot (isto é, um programa interativo que produz diálogos automáticos), tendo em vista a garantia e a manutenção da saúde mental da comunidade universitária, junto a uma extensa rede de apoio.
 
 Coding Dojo: Coding Dojo: Reuniões com objetivo de incentivar a troca de conhecimento de programação de maneira divertida e cooperativa.
-<<<<<<< HEAD
 
 ## Inscreva-se nos nossos cursos
 Periodicamente realizamos diversos cursos para auxiliar a comunidade acadêmica em sua capacitação. Caso tenha interesse, preencha o formulário ao lado e assim que um novo
@@ -35,12 +34,3 @@ Feito
 Forms Enviado
 ## Faça parte da Computer Society
 Quer fazer parte de projetos em computação e se desenvolver profissionalmente enquanto dá um retorno de seu trabalho a sociedade? Junte-se a nós!
-
-=======
-## Eventos e Cursos
-## Organização Institucional
-## Outros
->>>>>>> d3dd4f7d8dbbd3f9e6fe19fd13ccf2e022782e9c
-### Forms para aplicação
-### Contatos
-### Membresia
