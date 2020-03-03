@@ -8,6 +8,11 @@ Acreditamos que a tecnologia pode tornar o mundo melhor
 ### Legenda
 O IEEE Computer Society UnB é um capítulo do Ramo Estudantil IEEE UnB voltado a questões relacionadas aos computadores tanto em software quanto em hardware.
 
+### Projetos
+A Computer Society UnB desenvolve vários projetos em diversas áreas da computação.
+### Projetos
+A Computer Society UnB realiza periodicamente eventos voltados a programação e tecnologia em geral.
+
 ## Apresentação do Capítulo
 O IEEE Comuputer Society UnB é o capítulo do Ramo Estudantil IEEE UnB voltado para questões relacionadas aos computadores. Este capítulo realiza projetos de computação além de apoiar e organizar diversos eventos relacionados principalmente a ciência da computação, engenharia elétrica e eletrônica. O Capítulo é composto por voluntários e tem como objetivos desenvolver soluções tecnológicas computacionais tanto em software quanto em hardware, diminuir a distância entre estudantes, empresas e universidades e fomentar pesquisas que busquem não somente gerar novos produtos como também oferecer uma oportunidade para novas experiências e aprendizados aos seus membros.
 
@@ -24,7 +29,7 @@ Aprenda com quem faz parte ativamente de projetos na área de computação.
 ### Certificado
 Ao final do curso, você receberá um certificado comprovando a sua participação com a carga horária do curso realizado.
 
-## Projetos
+## Projetos Ativos
 Rabot: Chatbot cujo objetivo é auxiliar os estudantes da universidade fornecendo serviços de psicoeducação.
 Dojo: Evento mensal com o objetivo de desafiar os parcicipantes e incentivar a cooperação e troca de conhecimentos.
 
