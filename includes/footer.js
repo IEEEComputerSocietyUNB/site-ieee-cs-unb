@@ -6,9 +6,8 @@ document.write(`
 <h4>Links</h4>
 <ul>
 <li><a href="http://www.ieee.org.br/">IEEE Brasil</a></li>
-<li><a href="#">Voluntários</a></li>
-<li><a href="#">Processo Seletivo</a></li>
 <li><a href="#">Galeria</a></li>
+<li><a href="#">Faça parte!</a></li>
 </ul>
 </div>
 </div>
@@ -19,7 +18,6 @@ document.write(`
 <li><a href="#">Semana Universitária</a></li>
 <li><a href="#">IEEExtreme</a></li>
 <li><a href="#">Outro evento</a></li>
-<li><a href="#">Outro evento 2</a></li>
 </ul>
 </div>
 </div>
