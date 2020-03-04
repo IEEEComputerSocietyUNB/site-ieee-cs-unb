@@ -24,6 +24,7 @@ Coding Dojo: Coding Dojo: Reuniões com objetivo de incentivar a troca de conhec
 ## Inscreva-se nos nossos cursos
 Periodicamente realizamos diversos cursos para auxiliar a comunidade acadêmica em sua capacitação. Caso tenha interesse, preencha o formulário ao lado e assim que um novo
 for realizado, lhe avisaremos por email.
+
 ### Instrutores Experientes
 Aprenda com quem faz parte ativamente de projetos na área de computação.
 ### Certificado
@@ -33,7 +34,7 @@ Ao final do curso, você receberá um certificado comprovando a sua participaç�
 Rabot: Chatbot cujo objetivo é auxiliar os estudantes da universidade fornecendo serviços de psicoeducação.
 Dojo: Evento mensal com o objetivo de desafiar os parcicipantes e incentivar a cooperação e troca de conhecimentos.
 
-## Eventos e Concursos
+## Eventos e Cursos
 Feito
 ## Gestão 2020 e Nossos Voluntários
 Forms Enviado
