@@ -6,9 +6,8 @@ document.write(`
 <h4>Links</h4>
 <ul>
 <li><a href="http://www.ieee.org.br/">IEEE Brasil</a></li>
-<li><a href="#">Voluntários</a></li>
-<li><a href="#">Processo Seletivo</a></li>
 <li><a href="#">Galeria</a></li>
+<li><a href="#">Faça parte!</a></li>
 </ul>
 </div>
 </div>
@@ -19,7 +18,6 @@ document.write(`
 <li><a href="#">Semana Universitária</a></li>
 <li><a href="#">IEEExtreme</a></li>
 <li><a href="#">Outro evento</a></li>
-<li><a href="#">Outro evento 2</a></li>
 </ul>
 </div>
 </div>
@@ -35,7 +33,7 @@ document.write(`
 <div class="col-lg-4  col-md-6 col-sm-6">
 <div class="single-footer-widget">
 <h4>Newsletter</h4>
-<p>Fique sabendo dos nossos eventos!</p>
+<p class="bottom-text">Fique sabendo dos nossos eventos!</p>
 <div class="" id="mc_embed_signup">
 <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get">
 <div class="input-group">
@@ -56,10 +54,7 @@ document.write(`
 <p class="footer-text m-0 col-lg-6 col-md-12">
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 Copyright &copy;
-<script>document.write(new Date().getFullYear());</script> All rights reserved IEEE Computer Society UnB | This
-template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com"
-target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+<script>document.write(new Date().getFullYear());</script> All rights reserved IEEE Computer Society UnB
 </p>
 <div class="col-lg-6 col-sm-12 footer-social">
 <a href="#"><i class="fa fa-facebook"></i></a>

@@ -34,12 +34,15 @@
     ul li {
         margin-bottom: 10px;
         a {
-            color: $text-color;
+            color: $custom-texts-color;
             @include transition();
             &:hover {
                 color: $primary-color;
             }
         }
+    }
+    .bottom-text{
+        color: $custom-texts-color;
     }
     .bb-btn {
         color: $primary-color;
