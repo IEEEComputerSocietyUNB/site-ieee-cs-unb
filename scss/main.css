@@ -33,9 +33,9 @@ Created:
 /* =================================== */
 /*  Font Family and Colors Styles
 /* =================================== */
-/*
-
-$primary-font	: 'Poppins', sans-serif;
+/* Change colors of .pt-10 , .bottom-text, .search-course-area, .single-footer-widget ul li
+*/
+/* $primary-font	: 'Poppins', sans-serif;
 ---------------------------------------------
 
 $primary-color	: #f7631b;
@@ -161,7 +161,7 @@ a, a:focus, a:hover {
 h1, h2, h3,
 h4, h5, h6 {
   font-family: "Poppins", sans-serif;
-  color: #1b7d12;
+  color: #222222;
   line-height: 1.2em !important;
   margin-bottom: 0;
   margin-top: 0;
@@ -174,7 +174,7 @@ h4, h5, h6 {
   margin-top: 0;
   font-family: "Poppins", sans-serif;
   font-weight: 600;
-  color: #1b7d12;
+  color: #222222;
 }
 
 h1, .h1 {
@@ -199,7 +199,7 @@ h5, .h5 {
 
 h6, .h6 {
   font-size: 14px;
-  color: #1b7d12;
+  color: #222222;
 }
 
 td, th {
@@ -462,6 +462,7 @@ td, th {
 
 .pt-10 {
   padding-top: 10px;
+  color: #fff;
 }
 
 .pt-15 {
@@ -1012,7 +1013,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .genric-btn.default {
-  color: #1b7d12;
+  color: #222222;
   background: #f9f9ff;
   border: 1px solid transparent;
 }
@@ -1028,7 +1029,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .genric-btn.default-border:hover {
-  color: #1b7d12;
+  color: #222222;
   background: #f9f9ff;
   border: 1px solid transparent;
 }
@@ -1154,27 +1155,27 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .genric-btn.link {
-  color: #1b7d12;
+  color: #222222;
   background: #f9f9ff;
   text-decoration: underline;
   border: 1px solid transparent;
 }
 
 .genric-btn.link:hover {
-  color: #1b7d12;
+  color: #222222;
   border: 1px solid #f9f9ff;
   background: #fff;
 }
 
 .genric-btn.link-border {
-  color: #1b7d12;
+  color: #222222;
   border: 1px solid #f9f9ff;
   background: #fff;
   text-decoration: underline;
 }
 
 .genric-btn.link-border:hover {
-  color: #1b7d12;
+  color: #222222;
   background: #f9f9ff;
   border: 1px solid transparent;
 }
@@ -1229,7 +1230,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .progress-table .table-head .serial, .progress-table .table-head .country, .progress-table .table-head .visit, .progress-table .table-head .percentage {
-  color: #1b7d12;
+  color: #222222;
   line-height: 40px;
   text-transform: uppercase;
   font-weight: 500;
@@ -2217,7 +2218,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu li:hover > a {
-  color: #1b2578;
+  color: #1b7d12;
 }
 
 .nav-menu > li {
@@ -2714,6 +2715,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .search-course-area .search-course-left p {
   font-size: 12px;
+  color: #fff;
 }
 
 @media (max-width: 991px) {
@@ -4857,13 +4859,17 @@ dl.toggle.time-line:before {
 }
 
 .single-footer-widget ul li a {
-  color: #545454;
+  color: #fff;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
 
 .single-footer-widget ul li a:hover {
   color: #1b2578;
+}
+
+.single-footer-widget .bottom-text {
+  color: #fff;
 }
 
 .single-footer-widget .bb-btn {
