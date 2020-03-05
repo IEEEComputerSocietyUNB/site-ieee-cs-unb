@@ -33,9 +33,7 @@ Created:
 /* =================================== */
 /*  Font Family and Colors Styles
 /* =================================== */
-/*
-
-$primary-font	: 'Poppins', sans-serif;
+/* $primary-font	: 'Poppins', sans-serif;
 ---------------------------------------------
 
 $primary-color	: #f7631b;
@@ -462,6 +460,7 @@ td, th {
 
 .pt-10 {
   padding-top: 10px;
+  color: #fff;
 }
 
 .pt-15 {
@@ -2714,6 +2713,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 .search-course-area .search-course-left p {
   font-size: 12px;
+  color: #fff;
 }
 
 @media (max-width: 991px) {
@@ -4857,13 +4857,17 @@ dl.toggle.time-line:before {
 }
 
 .single-footer-widget ul li a {
-  color: #545454;
+  color: #fff;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
 }
 
 .single-footer-widget ul li a:hover {
   color: #1b2578;
+}
+
+.single-footer-widget .bottom-text {
+  color: #fff;
 }
 
 .single-footer-widget .bb-btn {
