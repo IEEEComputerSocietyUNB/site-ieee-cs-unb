@@ -19,7 +19,7 @@ document.write(`
 <div class="container main-menu">
 <div class="row align-items-center justify-content-between d-flex">
 <div id="logo">
-<a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
+<a href="index.html"><img src="img/cs_logo.png" alt="" title=""/>IEEE Computer Society UnB</a>
 </div>
 <nav id="nav-menu-container">
 <ul class="nav-menu">
