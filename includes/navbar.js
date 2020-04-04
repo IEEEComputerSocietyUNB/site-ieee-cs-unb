@@ -4,8 +4,9 @@ document.write(`
 <div class="row">
 <div class="col-lg-6 col-sm-6 col-8 header-top-left no-padding">
 <ul>
-<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.facebook.com/IEEEComputerSocietyUnB/"><i class="fa fa-facebook"></i></a></li>
+<li><a href="https://twitter.com/ieeecsunb"><i class="fa fa-twitter"></i></a></li>
+<li><a href="https://www.instagram.com/ieeecomputersocietyunb/"><i class="fa fa-instagram"></i></a></li>
 </ul>
 </div>
 <div class="col-lg-6 col-sm-6 col-4 header-top-right no-padding">

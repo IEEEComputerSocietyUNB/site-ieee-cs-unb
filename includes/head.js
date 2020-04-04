@@ -4,7 +4,7 @@ document.write(`
 		<!-- Favicon-->
 		<link rel="shortcut icon" href="img/fav.png">
 		<!-- Author Meta -->
-		<meta name="author" content="Computer Society">
+		<meta name="author" content="Computer Society UnB">
 		<!-- Meta Description -->
 		<meta name="description" content="IEEE Computer Society UnB">
 		<!-- Meta Keyword -->

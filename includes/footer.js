@@ -6,7 +6,7 @@ document.write(`
 <h4>Links</h4>
 <ul>
 <li><a href="http://www.ieee.org.br/">IEEE Brasil</a></li>
-<li><a href="#">Galeria</a></li>
+<li><a href="gallery.html">Galeria</a></li>
 <li><a href="#">Faça parte!</a></li>
 </ul>
 </div>
@@ -15,9 +15,8 @@ document.write(`
 <div class="single-footer-widget">
 <h4>Eventos</h4>
 <ul>
-<li><a href="#">Semana Universitária</a></li>
-<li><a href="#">IEEExtreme</a></li>
-<li><a href="#">Outro evento</a></li>
+<li><a href="https://www.sene.unb.br/">Semana Universitária</a></li>
+<li><a href="https://ieeextreme.org/">IEEExtreme</a></li>
 </ul>
 </div>
 </div>
@@ -33,7 +32,7 @@ document.write(`
 <div class="col-lg-4  col-md-6 col-sm-6">
 <div class="single-footer-widget">
 <h4>Newsletter</h4>
-<p class="bottom-text">Fique sabendo dos nossos eventos!</p>
+<p class="bottom-text">Fique sabendo dos nossos projetos e eventos!</p>
 <div class="" id="mc_embed_signup">
 <form target="_blank" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get">
 <div class="input-group">
@@ -57,8 +56,9 @@ Copyright &copy;
 <script>document.write(new Date().getFullYear());</script> All rights reserved IEEE Computer Society UnB
 </p>
 <div class="col-lg-6 col-sm-12 footer-social">
-<a href="#"><i class="fa fa-facebook"></i></a>
-<a href="#"><i class="fa fa-twitter"></i></a>
+<a href="https://www.facebook.com/IEEEComputerSocietyUnB/"><i class="fa fa-facebook"></i></a>
+<a href="https://twitter.com/ieeecsunb"><i class="fa fa-twitter"></i></a>
+<a href="https://www.instagram.com/ieeecomputersocietyunb/"><i class="fa fa-instagram"></i></a>
 </div>
 </div>
 </div>

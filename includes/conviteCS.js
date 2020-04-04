@@ -5,7 +5,7 @@ document.write(`
 <h1>Quer fazer parte da Computer Society?</h1>
 </div>
 <div class="col-lg-4 cta-right">
-<a class="primary-btn wh" href="#">Aplique-se!</a>
+<a class="primary-btn wh" href="#">Aplicar</a>
 </div>
 </div>
 </div>
