@@ -2012,6 +2012,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/
+
 .header-top {
   background: #04091e;
   font-size: 12px;
@@ -2046,7 +2047,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header-top .header-top-left a:hover i {
-  color: #1b2578;
+  color: #1b7d12;
 }
 
 .header-top .header-top-right {
@@ -2082,6 +2083,7 @@ h1, h2, h3, h4, h5, h6 {
   padding-top: 20px;
   border-bottom: 1px solid #39353e;
 }
+
 
 #header {
   position: fixed;
@@ -2130,7 +2132,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header #logo a:hover {
-  color: #1b2578;
+  color: #fff;
 }
 
 #header #logo img {
@@ -2151,6 +2153,7 @@ h1, h2, h3, h4, h5, h6 {
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
+
 /* Nav Menu Essentials */
 .nav-menu, .nav-menu * {
   margin: 0;
